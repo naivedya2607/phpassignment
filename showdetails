@@ -64,7 +64,7 @@ else{
     </style>
 <html>
   <body>
-    <form method="GET" action="pDetails.php">
+    <form method="GET" action="showdetails.php">
         Name <input type="text" name="name" required ><br>
     <input type="submit" name="submit" value="Click Here To Submit Your Data">
     </form>
