@@ -19,7 +19,7 @@
 	<title>addition</title>
 </head>
 <body>
-	<form method="post" action="addition.php">
+	<form method="post" action="add.php">
 		<input type="number" name="num1" required>
 		<input type="number" name="num2" required>
 		<input type="submit" name="submit" value="submit">
