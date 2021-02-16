@@ -16,7 +16,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>addition</title>
+	<title>add</title>
 </head>
 <body>
 	<form method="post" action="add.php">
